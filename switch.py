@@ -1,4 +1,6 @@
-import os, sys
+'''
+Switcher Configuration for cloud computer
+'''import os, sys
 import socket
 import random
 from struct import pack, unpack
